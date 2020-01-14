@@ -16,7 +16,7 @@ public class App {
         animals.add(new Animal("adatja", false, true));
 
         System.out.println();
-
+        //hola we
         print(animals, a -> a.canHop());
         print(animals, a -> a.canSwim());
         print(animals, a ->! a.canSwim ());
