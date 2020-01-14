@@ -13,6 +13,7 @@ public class App {
         animals.add(new Animal("ratata", false, true));
         animals.add(new Animal("tonitata", false, true));
         animals.add(new Animal("adata", false, true));
+        animals.add(new Animal("adatja", false, true));
 
         System.out.println();
 
